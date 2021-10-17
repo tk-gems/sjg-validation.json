@@ -3,6 +3,6 @@
 "ticker":"TGEM",
 "discordId":"???",
 "pool-list":"true",
-"poolMetaData":"https://xstakepool.com/xstakepool.json",
-"validation":"https://xstakepool.com/sjg-validation.json"
+"poolMetaData":"https://raw.githubusercontent.com/tk-gems/tgem-json/main/poolMetaData.json",
+"validation":""
 }
