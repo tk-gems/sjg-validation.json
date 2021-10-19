@@ -1,7 +1,7 @@
 {
 "name":"SHOW1-tk-gems[TGEM]#8711",
 "ticker":"TGEM",
-"discordId":"???",
+"discordId":"SHOW1-tk-gems[TGEM]#8711",
 "pool-list":"true",
 "poolMetaData":"https://raw.githubusercontent.com/tk-gems/tgem-json/main/poolMetaData.json",
 "validation":"https://raw.githubusercontent.com/tk-gems/sjg-validation.json/main/sjg-validation.json"
